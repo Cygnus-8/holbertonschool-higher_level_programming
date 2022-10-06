@@ -4,6 +4,9 @@ To JSON String
 """
 
 import Json
+"""
+Json string module
+"""
 
 
 def to_json_string(my_obj):
