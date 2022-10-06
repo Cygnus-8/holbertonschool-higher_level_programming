@@ -3,10 +3,14 @@
 """Real definition of a rectangle"""
 
 class Rectangle:
-    """ Represent a real definition of a rectangle"""
+    """
+    
+    Represent a real definition of a rectangle
+    """
 
     def __init__(self, width=0, height=0):
-        """ Initialize a new rectangle.
+        """
+        Initialize a new rectangle.
         Args:
         width (int) : the width of the new rectangle
         height (int) : the height of the new rectangle
